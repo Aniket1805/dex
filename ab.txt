@@ -1,1 +1,2 @@
 branching example
+added to the master
